@@ -16,7 +16,7 @@ It allows the numbers to tell a compelling story, providing valuable insights in
 
 The SANOVO Streamline makes it possible for small scale liquid plants to produce the same high quality of finished egg product as the large processing facilities. At the same time it only requires little training for the staff to operate the plant.
 
-Video demonstration of plant operation: 
+![Sanovo processor](https://github.com/kudzai383/Working-Demo/assets/153997269/dc259e31-b5df-4d03-8f70-a4eb3d5f5199)
 
 The SANOVO Streamline is ideal for small producers like layer farms or grading/packing stations that want to further process off grades into safe, convenient pasteurized egg products.
 For existing egg processing plants the SANOVO Streamline is ideal as a secondary line suitable for running special products like organic products or products with enzymes or additives.
